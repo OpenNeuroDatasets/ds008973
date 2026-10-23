@@ -73,3 +73,6 @@ The reference MPRAGE is not available for sub-010 and sub-011.
 - Eye tracking of sub-007 and sub-009 started after the scan began (offsets -451 / -456 ms), unlike the
   other subjects (about +61 ms). All offsets, plus the per-subject EyeLink clock-rate error, are in
   `derivatives/mreyetrack-binning/sync_corrections.mat` and are already applied to the `_sync` labels.
+- The `acq-full_rec-grid` images of sub-001 to sub-005 are stored without intensity normalization (values
+  around 1e-8, against about 1-10 for every other image). They are intact, but a viewer with a fixed display
+  window shows them black; rescale the display window to view them.
