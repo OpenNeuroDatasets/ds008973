@@ -1,34 +1,35 @@
 {
-  "Name": "MR-EyeTrack: gaze-resolved 3D T1w MRI of the eye with simultaneous eye tracking",
-  "BIDSVersion": "1.9.0",
-  "DatasetType": "raw",
-  "License": "CC0",
-  "Authors": [
-    "Jaime Barranco",
-    "Yiwei Jia",
-    "Eleonora Fornari",
-    "Oscar Esteban",
-    "Jean-Baptiste Ledoux",
-    "Mauro Leidi",
-    "Helene Vitali",
-    "C\u00e9dric Campos Carvalho",
-    "Elena Najdenovska",
-    "Laura Elena Raileanu",
-    "Jessica Bastiaansen",
-    "Micah M. Murray",
-    "Benedetta Franceschiello"
-  ],
-  "Funding": [
-    "Fondation Asile des aveugles (grant #232933 to M.M.M.)",
-    "A grantor advised by Carigest SA (#232920 to M.M.M.)",
-    "Swiss National Science Foundation (grants #169206 to M.M.M., #220433 and #229214 to B.F.)",
-    "HES-SO University of Applied Sciences and Arts Western Switzerland (grant 129816/IA-RECHERCHE23-19)"
-  ],
-  "EthicsApprovals": [
-    "MR-Eye Track protocol: positive approval from the local ethics committee via the Swiss BASEC (Business Administration System for Ethics Committees) on 27 June 2024, protocol number 2024-00165",
-    "Original protocol (Franceschiello et al.): approved by the cantonal ethics committee, protocol number 2018-00240"
-  ],
-  "ReferencesAndLinks": [
-    "https://github.com/MattechLab/MR-EyeTrack"
-  ]
+    "Name": "MR-EyeTrack: gaze-resolved 3D T1w MRI of the eye with simultaneous eye tracking",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Jaime Barranco",
+        "Yiwei Jia",
+        "Eleonora Fornari",
+        "Oscar Esteban",
+        "Jean-Baptiste Ledoux",
+        "Mauro Leidi",
+        "Helene Vitali",
+        "Cédric Campos Carvalho",
+        "Elena Najdenovska",
+        "Laura Elena Raileanu",
+        "Jessica Bastiaansen",
+        "Micah M. Murray",
+        "Benedetta Franceschiello"
+    ],
+    "Funding": [
+        "Fondation Asile des aveugles (grant #232933 to M.M.M.)",
+        "A grantor advised by Carigest SA (#232920 to M.M.M.)",
+        "Swiss National Science Foundation (grants #169206 to M.M.M., #220433 and #229214 to B.F.)",
+        "HES-SO University of Applied Sciences and Arts Western Switzerland (grant 129816/IA-RECHERCHE23-19)"
+    ],
+    "EthicsApprovals": [
+        "MR-Eye Track protocol: positive approval from the local ethics committee via the Swiss BASEC (Business Administration System for Ethics Committees) on 27 June 2024, protocol number 2024-00165",
+        "Original protocol (Franceschiello et al.): approved by the cantonal ethics committee, protocol number 2018-00240"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/MattechLab/MR-EyeTrack"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008973.v1.0.0"
 }
