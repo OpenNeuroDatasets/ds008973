@@ -1,0 +1,21 @@
+{
+  "Name": "MR-EyeTrack gaze-resolved reconstructions",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "derivative",
+  "License": "CC0",
+  "GeneratedBy": [
+    {
+      "Name": "monalisa",
+      "Description": "bmMathilda (gridding) and bmSteva (compressed-sensing, 20 iterations, delta 1) on pulseq 3D radial-spiral k-space"
+    },
+    {
+      "Name": "MR-EyeTrack",
+      "CodeURL": "https://github.com/MattechLab/MR-EyeTrack"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "../../"
+    }
+  ]
+}
